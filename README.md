@@ -8,4 +8,4 @@ Implement composite design pattern.
 Install java-sdk-14
 
 # Running
-Run Driver.java
+Run Main.java
